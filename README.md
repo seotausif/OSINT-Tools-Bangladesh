@@ -34,10 +34,6 @@ A curated collection of Open Source Intelligence (OSINT) and public data tools r
 - [e-GP Procurement Portal](https://www.eprocure.gov.bd/)
 - [CPTU Tenders](https://www.cptu.gov.bd/)
 
-## 👥 Social & People Search
-- [Facebook UID Search Tools](https://lookup-id.com/)
-- [TikTok OSINT Tools](https://tiktok-osint.ninja/)
-- [Telegram OSINT Tools](https://github.com/woj-ciech/telegram-OSINT)
 
 ## ⚖️ Legal & Court Info
 - [Bangladesh Supreme Court Cause List](http://supremecourt.gov.bd/)
@@ -45,8 +41,7 @@ A curated collection of Open Source Intelligence (OSINT) and public data tools r
 
 ## 🌐 WHOIS / Domain / IP
 - [BTCL WHOIS Lookup](https://www.btcl.gov.bd/page/whois)
-- [IPinfo.io](https://ipinfo.io/)
-- [DomainTools](https://whois.domaintools.com/)
+
 
 ## 🛰️ Maps & Geolocation
 - [Rajuk GIS Zoning Maps](http://103.48.16.228/rajukgis/)
