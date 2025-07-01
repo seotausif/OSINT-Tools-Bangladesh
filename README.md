@@ -3,8 +3,7 @@
 > A standardized collection of Bangladesh-specific OSINT and public data tools for investigations and digital research.
 # 🇧🇩 OSINT Resources for Bangladesh
 
-A curated collection of Open Source Intelligence (OSINT) and public data tools relevant to investigations, fact-checking, and digital research in Bangladesh.  
-This repository follows the format of [paulpogoda/OSINT-for-countries-V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0).
+A curated collection of Open Source Intelligence (OSINT) and public data tools relevant to investigations, fact-checking, and digital research in Bangladesh. This repository follows the format of [paulpogoda/OSINT-for-countries-V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0).
 
 ---
 
