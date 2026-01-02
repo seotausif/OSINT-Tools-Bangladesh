@@ -52,4 +52,5 @@ A curated collection of Open Source Intelligence (OSINT) and public data tools r
 ## ✅ Contributor
 Curated by [Tausif Akbar]  
 For OSINT & fact-checking use — feel free to fork and expand.
+Contact at tausif@journalist.com
 
